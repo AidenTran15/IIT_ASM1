@@ -1,0 +1,10 @@
+.nav-bar{
+    Height: 60px;
+    font-size: 17px;
+}
+
+.nav-bar-title{
+    font-size:30px;
+    padding-right: 55px;
+    font-family: Roboto,sans-serif;
+}
